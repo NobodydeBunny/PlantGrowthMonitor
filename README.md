@@ -107,4 +107,4 @@ PlantGrowthMonitor<br>
 <h3>License</h3>
 
 This project is intended for educational and research purposes. You are free to modify and expand it for learning or experimentation.
-please add a start if you like this project.
+please add a star if you like this project.
